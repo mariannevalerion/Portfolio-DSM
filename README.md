@@ -131,3 +131,100 @@ Senai São José dos Campos (Abril de 2023 – Junho de 2023)
       <b>🙋‍♀️ Contribuições pessoais  </b>
       <p> Atuei como desenvolvedora da equipe SkyFly, ajudando na elaboração do protótipo inicial da aplicação e sendo responsável pelo desenvolvimento tanto do frontend, quanto do backend. Participei ativamente da modelagem do Banco de Dados e também nas discussões sobre os requisitos apresentados. Desenvolvi algumas funcionalidades chaves, como por exemplo o sistema de notificações utilizando triggers e websocket.
       </p>
+
+    
+    <li><h3 id="bot"> GSW • 3º Semestre • 2025/08 </h3>
+      <img src="./images/BannerBeeOnTime.png" width="100%"></br>
+       <p align="center">
+        <a href="https://github.com/SkyFlyTeam/beeOnTime-documentation" target="_blank">Repositório do Projeto</a> • The Devs
+        </p>
+        <b>📑 Descrição do Problema</b>
+
+<p>A problemática apresentada pela empresa GSW envolve a necessidade de um sistema eficiente para o gerenciamento de tarefas. Atualmente, muitas equipes enfrentam dificuldades para organizar atividades, acompanhar prazos, controlar a colaboração entre membros e manter registros confiáveis de alterações. Além disso, a ausência de uma plataforma integrada compromete a produtividade, dificulta a visualização de tarefas em equipe e aumenta os riscos de perda de informações importantes, como anexos, históricos e notificações.</p> </br>
+
+<b>🎯 Objetivo</b>
+
+<p>Desenvolver uma aplicação web moderna e responsiva que permita gerenciar tarefas de forma completa, incluindo criação, edição, exclusão, conclusão, categorização e atribuição entre usuários. O objetivo é otimizar a organização individual e em equipe, garantindo controle de prazos, centralização de documentos, segurança de acesso, integração com calendários externos e visibilidade para administradores por meio de logs de auditoria e filtros avançados.</p> </br>
+
+<b>💡 Solução</b>
+
+<p>A solução proposta consiste em uma plataforma robusta de gerenciamento de tarefas, integrando funcionalidades como login seguro, criação de equipes, anexos de arquivos, notificações, filtros inteligentes e interface intuitiva com arrastar e soltar (Kanban). Com o uso de tecnologias como React, Tailwind, Java com Spring e MongoDB, o sistema oferece uma experiência fluida e escalável. A plataforma possibilita que usuários organizem atividades, acompanhem prazos e colaborem com suas equipes, enquanto administradores têm acesso a logs detalhados e ferramentas avançadas de gestão, promovendo eficiência, transparência e produtividade no ambiente corporativo.</p>
+</b>
+<b> 🛠️ Tecnologias Utilizadas </b>
+<p> 
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</p>
+</br>
+<b>🙋‍♀️ Contribuições Pessoais</b>
+<p> 
+Atuei de forma ativa no desenvolvimento do projeto, contribuindo tanto no backend quanto no frontend. 
+Participei da criação das principais funcionalidades da aplicação, colaborando diretamente na implementação, testes 
+e organização do código. Durante o processo, também trabalhei com o banco de dados MongoDB, realizando a configuração,
+integração e apoio na modelagem de dados utilizada pelo sistema. Além disso, participei das discussões e decisões 
+relacionadas à arquitetura, aprendendo e aplicando conceitos de microsserviços e desenvolvimento em Java, que foram
+novas tecnologias exploradas nesta disciplina.
+</p>
+
+<div style="display: flex; gap: 1rem">
+  <span><b> Habilidades Adquiridas: </b></span>
+
+  <div style="display: flex; gap: 3rem">
+
+    <details>
+      <summary>Hard Skills</summary>
+      <ul>
+        <li>Java</li>
+        <li>Spring Boot</li>
+        <li>Microsserviços</li>
+        <li>MongoDB</li>
+        <li>React</li>
+        <li>TypeScript</li>
+        <li>JavaScript</li>
+        <li>Node.js</li>
+        <li>Git e GitHub</li>
+      </ul>
+    </details>
+
+    <details>
+      <summary>Soft Skills</summary>
+      <ul>
+        <li>Trabalho em equipe e empatia: Aprendi a lidar melhor com meus colegas de classe, entendendo suas dificuldades, ritmos e formas de trabalho. Isso contribuiu para um ambiente mais organizado, saudável e colaborativo.</li>
+
+        <li>Organização e cooperação: Contribuí para manter o fluxo do projeto organizado, participando da divisão de tarefas e ajudando quando necessário para que as entregas fossem concluídas a tempo.</li>
+
+        <li>Comunicação clara durante o desenvolvimento: Mantive comunicação constante com a equipe, buscando alinhar decisões e esclarecer dúvidas para garantir que todos seguissem na mesma direção.</li>
+
+        <li>Aprendizado contínuo e proatividade: Busquei novos conhecimentos em Java, Spring e arquitetura de microsserviços, aplicando o que aprendi de forma prática ao longo do projeto.</li>
+
+        <li>Flexibilidade e adaptação: Consegui me adaptar rapidamente às necessidades do sistema, ajustando funcionalidades e apoiando diferentes partes do desenvolvimento conforme a equipe precisava.</li>
+      </ul>
+    </details>
+
+  </div>
+</div>
+
+</br>
+
+<b>📚 Lições Aprendidas</b>
+<p>
+Durante o desenvolvimento do projeto, aprofundei meus conhecimentos em Java, Spring Boot e arquitetura de 
+microsserviços — tecnologias que até então eram novas para mim. Também aprendi a trabalhar com banco de dados 
+NoSQL (MongoDB), compreendendo melhor seu funcionamento, flexibilidade e vantagens em sistemas modernos.
+Além das habilidades técnicas, o projeto me ajudou a evoluir no trabalho em equipe, comunicação e organização,
+fortalecendo minha capacidade de colaborar e entregar resultados de forma eficiente.
+</p>
+
+
+
