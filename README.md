@@ -133,10 +133,10 @@ Senai São José dos Campos (Abril de 2023 – Junho de 2023)
       </p>
 
     
-    <li><h3 id="bot"> GSW • 3º Semestre • 2025/08 </h3>
-     <img src="./images/GSW.png" width="100%"></br>
+    <li><h3 id="cloud-stock"> CloudStock • 2º Semestre • 2024/02 </h3>
+      <img src="./images/BannerCloudStock.png" width="100%"></br>
        <p align="center">
-        <a href="https://github.com/the-devs-department/GSW-2025.2-3Sem" target="_blank">Repositório do Projeto</a> • The Devs
+        <a href="https://github.com/SkyFlyTeam/cloudStock" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
       </p>
         <b>📑 Descrição do Problema</b>
 
