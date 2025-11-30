@@ -134,11 +134,10 @@ Senai São José dos Campos (Abril de 2023 – Junho de 2023)
 
     
     <li><h3 id="bot"> GSW • 3º Semestre • 2025/08 </h3>
-      <img src="./images/GSW.png
-  " width="100%"></br>
+     <img src="./images/GSW.png" width="100%"></br>
        <p align="center">
-        <a href="https://github.com/SkyFlyTeam/beeOnTime-documentation" target="_blank">Repositório do Projeto</a> • The Devs
-        </p>
+        <a href="https://github.com/the-devs-department/GSW-2025.2-3Sem" target="_blank">Repositório do Projeto</a> • The Devs
+      </p>
         <b>📑 Descrição do Problema</b>
 
 <p>A problemática apresentada pela empresa GSW envolve a necessidade de um sistema eficiente para o gerenciamento de tarefas. Atualmente, muitas equipes enfrentam dificuldades para organizar atividades, acompanhar prazos, controlar a colaboração entre membros e manter registros confiáveis de alterações. Além disso, a ausência de uma plataforma integrada compromete a produtividade, dificulta a visualização de tarefas em equipe e aumenta os riscos de perda de informações importantes, como anexos, históricos e notificações.</p> </br>
