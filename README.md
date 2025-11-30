@@ -14,6 +14,9 @@ Para saber **mais sobre mim**, acesse os links abaixo:
 - [📄 PDF do Currículo](arquivos/MarianneValério.pdf)*
 
 
+
+
+
 ## 📚 Resumo sobre mim
 
 **Formação**
