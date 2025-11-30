@@ -26,6 +26,8 @@ Para saber **mais sobre mim**, acesse os links abaixo:
 - Curso de **Operador de Microcomputador** pelo 
 Senai São José dos Campos (Abril de 2023 – Junho de 2023)
 - Ensino médio na escola E.E. Profª Maria Dolores Veríssimo Madureira
+
+  
 **O que Busco:**
 - Estou em busca de oportunidades na área de TI para aplicar meus conhecimentos, aprender novas tecnologias e colaborar com a equipe. 
 Sou dedicada, comunicativa e tenho facilidade para trabalhar em grupo.
