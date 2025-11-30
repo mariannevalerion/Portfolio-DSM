@@ -1,4 +1,4 @@
-# 🌟 Portfólio de Marianne Valério! 🌟
+# Portfólio de Marianne Valério! 
 <img src="arquivos/marianne.png" width="450" align="left" alt="Marianne" />  
 
 
@@ -19,11 +19,17 @@ Para saber **mais sobre mim**, acesse os links abaixo:
 
 ## 📚 Resumo sobre mim
 
+
+
 **Formação**
 - Estudante de **Desenvolvimento de Software Multiplataforma** (3° semestre | Matutino) na FATEC São José dos Campos (2024 – 2027)
 - Curso de **Operador de Microcomputador** pelo 
 Senai São José dos Campos (Abril de 2023 – Junho de 2023)
-
+- Ensino médio na escola E.E. Profª Maria Dolores Veríssimo Madureira
+**O que Busco:**
+- Estou em busca de oportunidades na área de TI para aplicar meus conhecimentos, aprender novas tecnologias e colaborar com a equipe. 
+Sou dedicada, comunicativa e tenho facilidade para trabalhar em grupo.
+  
 
 **Voluntariados:**
 - Voluntária na escola E.E. Profª Maria Dolores Veríssimo Madureira como acolhedora (2024) 
