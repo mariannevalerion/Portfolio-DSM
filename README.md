@@ -134,7 +134,8 @@ Senai São José dos Campos (Abril de 2023 – Junho de 2023)
 
     
     <li><h3 id="bot"> GSW • 3º Semestre • 2025/08 </h3>
-      <img src="./images/BannerBeeOnTime.png" width="100%"></br>
+      <img src="./images/GSW.png
+  " width="100%"></br>
        <p align="center">
         <a href="https://github.com/SkyFlyTeam/beeOnTime-documentation" target="_blank">Repositório do Projeto</a> • The Devs
         </p>
