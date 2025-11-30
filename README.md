@@ -133,12 +133,12 @@ Senai São José dos Campos (Abril de 2023 – Junho de 2023)
       </p>
 
     
-    <li><h3 id="cloud-stock"> CloudStock • 2º Semestre • 2024/02 </h3>
-      <img src="./images/BannerCloudStock.png" width="100%"></br>
-       <p align="center">
-        <a href="https://github.com/SkyFlyTeam/cloudStock" target="_blank">Repositório do Projeto</a> • Equipe SkyFly
+   <ul>
+    <li><h3 id="smart-farm"> GSW • 3º Semestre • 2025/08 </h3>
+      <img src="./images/GSW.png" width="100%"></br>
+      <p align="center">
+        <a href="https://github.com/the-devs-department/GSW-2025.2-3Sem" target="_blank">Repositório do Projeto</a> • Equipe The Devs
       </p>
-        <b>📑 Descrição do Problema</b>
 
 <p>A problemática apresentada pela empresa GSW envolve a necessidade de um sistema eficiente para o gerenciamento de tarefas. Atualmente, muitas equipes enfrentam dificuldades para organizar atividades, acompanhar prazos, controlar a colaboração entre membros e manter registros confiáveis de alterações. Além disso, a ausência de uma plataforma integrada compromete a produtividade, dificulta a visualização de tarefas em equipe e aumenta os riscos de perda de informações importantes, como anexos, históricos e notificações.</p> </br>
 
@@ -181,41 +181,34 @@ novas tecnologias exploradas nesta disciplina.
   <span><b> Habilidades Adquiridas: </b></span>
 
   <div style="display: flex; gap: 3rem">
-
+<details>
+            <summary>Hard Skills</summary>
+            <ul>
+              <li>React</li>
+              <li>Node.js</li>
+              <li>TypeScript</li>
+              <li>Spring Boot</li>
+              <li>Microsserviços</li>
+              <li>MongoDB</li>
+              <li>Docker</li>
+              <li>Figma</li>
+              <li>Git e GitHub</li>
+            </ul>
+          </details>
     <details>
-      <summary>Hard Skills</summary>
-      <ul>
-        <li>Java</li>
-        <li>Spring Boot</li>
-        <li>Microsserviços</li>
-        <li>MongoDB</li>
-        <li>React</li>
-        <li>TypeScript</li>
-        <li>JavaScript</li>
-        <li>Node.js</li>
-        <li>Git e GitHub</li>
-      </ul>
-    </details>
-
-    <details>
-      <summary>Soft Skills</summary>
-      <ul>
-        <li>Trabalho em equipe e empatia: Aprendi a lidar melhor com meus colegas de classe, entendendo suas dificuldades, ritmos e formas de trabalho. Isso contribuiu para um ambiente mais organizado, saudável e colaborativo.</li>
-
-        <li>Organização e cooperação: Contribuí para manter o fluxo do projeto organizado, participando da divisão de tarefas e ajudando quando necessário para que as entregas fossem concluídas a tempo.</li>
-
-        <li>Comunicação clara durante o desenvolvimento: Mantive comunicação constante com a equipe, buscando alinhar decisões e esclarecer dúvidas para garantir que todos seguissem na mesma direção.</li>
-
-        <li>Aprendizado contínuo e proatividade: Busquei novos conhecimentos em Java, Spring e arquitetura de microsserviços, aplicando o que aprendi de forma prática ao longo do projeto.</li>
-
-        <li>Flexibilidade e adaptação: Consegui me adaptar rapidamente às necessidades do sistema, ajustando funcionalidades e apoiando diferentes partes do desenvolvimento conforme a equipe precisava.</li>
-      </ul>
-    </details>
-
-  </div>
-</div>
-
-</br>
+       <summary>Soft Skills </summary>
+            <ul>
+              <li>Colaboração em equipe multidisciplinar: Cada membro da equipe tinha conhecimentos e pendia para uma área de desenvolvimento, como desenvolvedores frontend, backend e devOps. Isso exigiu um esforço conjunto para alinhar os objetivos e resolver problemas técnicos sem que cada um ficasse preso em seu núcleo, mas fosse capaz de aprender e contribuir em outras áreas. Pessoalmente, foi meu primeiro contato com o DevOps, por exemplo.</li>
+            <li>Comunicação clara e didática com colegas: Durante o desenvolvimento da API, tive que documentar e explicar conceitos e ferramentas de forma acessível para os membros da equipe com diferentes níveis de conhecimento. Isso incluiu a explicação de decisões sobre o Figma, por exemplo, uma ferramenta que muitos nunca haviam utilizado.</li>
+              <li>Proatividade na resolução de problemas e estudo de tecnologias: Durante o desenvolvimento da API, identifiquei a necessidade de utilizar o Pandas para a geração de gráficos e análise de dados, uma vez abrangi diversas funcionalidades já integradas que seria muito úteis para nosso cliente. Fui proativa em aprender sobre essa biblioteca e apliquei esse conhecimento para gerar relatórios visuais que facilitassem a interpretação dos dados.</li>
+              <li>Organização e gestão de tempo: Para garantir que as entregas fossem feitas dentro do prazo, organizei meu tempo de maneira eficiente, priorizando tarefas de acordo com a urgência. Isso foi essencial no processo de desenvolvimento da API, onde a gestão do tempo foi fundamental para a integração de várias funcionalidades de forma coesa e sem comprometer a qualidade do código.</li>
+              <li>Adaptabilidade a diferentes níveis de conhecimento técnico: Durante o projeto, a equipe possuía membros com diferentes níveis de experiência. Adaptar minha comunicação e abordagem de trabalho a esses diferentes níveis foi fundamental para garantir que todos os membros pudessem contribuir efetivamente no desenvolvimento da API, mesmo aqueles com menos experiência em algumas tecnologias.</li>
+              <li>Empatia e apoio ao aprendizado dos colegas: Sempre que um membro da equipe encontrava dificuldades técnicas, oferecia apoio, seja ajudando com a sua task na API ou sugerindo recursos educativos.</li>
+            </ul>
+          </details>
+        </div>
+      <div>
+      </br>
 
 <b>📚 Lições Aprendidas</b>
 <p>
