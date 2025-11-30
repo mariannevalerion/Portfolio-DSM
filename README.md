@@ -1,6 +1,9 @@
 # 🌟 Portfólio de Marianne Valério! 🌟
 <img src="arquivos/marianne.png" width="450" align="left" alt="Marianne" />  
 
+
+
+
 Olá! Eu sou a Marianne — seja muito bem-vindo(a) ao meu portfólio 😊✨  
 Aqui você encontrará um pouco da minha trajetória profissional, alguns dos projetos que desenvolvi e os principais canais para entrar em contato comigo.  
 
