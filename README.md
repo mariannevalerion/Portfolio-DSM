@@ -11,7 +11,7 @@ Para saber **mais sobre mim**, acesse os links abaixo:
 - [🔗 Perfil no LinkedIn](https://www.linkedin.com/in/marianne-val%C3%A9rio-nunes-701568292/)
 - [📧 E-mail para contato](mailto:valerionunesm@gmail.com)
 - [🐙 Repositórios do GitHub](https://github.com/mariannevalerion?tab=repositories)
-- [📄 PDF do Currículo](arquivos/MarianneValério.pdf)*
+- [📄 PDF do Currículo](file:///C:/Users/Lenovo/Downloads/marianne_valerio%20(1).pdf)*
 
 
 
